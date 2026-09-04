@@ -8,11 +8,6 @@ description: >-
   and browser acceptance. Do not use for ordinary HTML indexes, generic
   structure retrieval, or PyMOL-specific sessions.
 license: MIT
-compatibility: >-
-  Analysis requires Python 3.10+ and NumPy. Story builds require Deno and the
-  pinned MolViewStories checkout; browser acceptance requires Playwright,
-  Chromium, and Pillow. Network access is normally needed for evidence
-  retrieval and the first pinned-runtime build.
 metadata:
   version: "1.0"
   skill-author: Molaison
