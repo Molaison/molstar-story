@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mol* Story"
+  short_description: "Build evidence-grounded interactive molecular stories"
+  default_prompt: "Use $molstar-story to research this structural-biology question, select and analyze the evidence, and build a decision-focused interactive story."
